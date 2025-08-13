@@ -1,8 +1,10 @@
 🎨 Open Gallery
+
 Open Gallery is a simple HTML + CSS (Bootstrap) art gallery website showcasing famous paintings from the public domain.
 It includes user login/signup pages, a gallery home page, and individual pages for each artwork with details and similar works.
 
 📂 Pages Included
+
 Login Page — login.html
 
 Sign Up Page — signup.html
@@ -24,6 +26,7 @@ art-the-scream.html — The Scream, Edvard Munch (1893)
 art-water-lilies.html — Water Lilies, Claude Monet (1916)
 
 🖼 Features
+
 Bootstrap responsive layout
 
 Navbar and footer on all pages
@@ -35,6 +38,7 @@ Public-domain artworks with descriptions
 Links between similar paintings
 
 📷 Image Sources (Public Domain)
+
 All images are from Wikimedia Commons:
 
 The Starry Night: link

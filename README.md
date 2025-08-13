@@ -34,19 +34,3 @@ Navbar and footer on all pages
 Smooth hover effects on images
 
 Public-domain artworks with descriptions
-
-Links between similar paintings
-
-📷 Image Sources (Public Domain)
-
-All images are from Wikimedia Commons:
-
-The Starry Night: link
-
-Mona Lisa: link
-
-Girl with a Pearl Earring: link
-
-The Scream: link
-
-Water Lilies: link
